@@ -1,0 +1,7 @@
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe.config
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.exe
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\bin\Debug\2-CriandoVariaveis.pdb
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.exe
+C:\DEV\direction_systems\backend\aula3\2-CriandoVariaveis\obj\Debug\2-CriandoVariaveis.pdb

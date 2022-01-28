@@ -1,0 +1,14 @@
+C:\Users\Nilton\source\repos\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Users\Nilton\source\repos\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Users\Nilton\source\repos\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Users\Nilton\source\repos\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Nilton\source\repos\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Nilton\source\repos\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Users\Nilton\source\repos\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.AssemblyReference.cache
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\DEV\direction_systems\backend\aula3\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb

@@ -1,0 +1,7 @@
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe.config
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.exe
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\bin\Debug\1-PrimeiroProjeto.pdb
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.exe
+C:\DEV\direction_systems\backend\aula3\1-PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.pdb

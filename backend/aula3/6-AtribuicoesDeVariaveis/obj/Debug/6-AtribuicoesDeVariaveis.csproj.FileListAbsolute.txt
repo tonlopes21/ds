@@ -1,0 +1,7 @@
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\DEV\direction_systems\backend\aula3\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb

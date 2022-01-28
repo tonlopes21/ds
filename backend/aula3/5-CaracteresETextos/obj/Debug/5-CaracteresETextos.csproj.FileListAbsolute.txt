@@ -1,0 +1,6 @@
+C:\DEV\direction_systems\backend\aula3\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe.config
+C:\DEV\direction_systems\backend\aula3\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.exe
+C:\DEV\direction_systems\backend\aula3\5-CaracteresETextos\bin\Debug\5-CaracteresETextos.pdb
+C:\DEV\direction_systems\backend\aula3\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\DEV\direction_systems\backend\aula3\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.exe
+C:\DEV\direction_systems\backend\aula3\5-CaracteresETextos\obj\Debug\5-CaracteresETextos.pdb
